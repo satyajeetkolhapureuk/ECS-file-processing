@@ -1,0 +1,9 @@
+c:\users\satya\documents\visual studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe.config
+c:\users\satya\documents\visual studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe
+c:\users\satya\documents\visual studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.pdb
+c:\users\satya\documents\visual studio 2017\Projects\ECS File Processing\ECS File Processing\obj\Debug\ECS_File_Processing.Service1.resources
+c:\users\satya\documents\visual studio 2017\Projects\ECS File Processing\ECS File Processing\obj\Debug\ECS File Processing.csproj.GenerateResource.Cache
+c:\users\satya\documents\visual studio 2017\Projects\ECS File Processing\ECS File Processing\obj\Debug\ECS File Processing.exe
+c:\users\satya\documents\visual studio 2017\Projects\ECS File Processing\ECS File Processing\obj\Debug\ECS File Processing.pdb
+c:\users\satya\documents\visual studio 2017\Projects\ECS File Processing\ECS File Processing\obj\Debug\ECS_File_Processing.ProjectInstaller.resources
+C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\obj\Debug\ECS File Processing.csprojResolveAssemblyReference.cache

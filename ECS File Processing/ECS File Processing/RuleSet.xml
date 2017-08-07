@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Ruleset>
+  <Rule>
+    <when>
+      <ColumnContains column="17" value="23" skip-if-not-present="true"></ColumnContains>
+    </when>
+    <then>
+      <ReplaceValue column="17" new-value="73"></ReplaceValue>
+    </then>
+  </Rule>
+</Ruleset>

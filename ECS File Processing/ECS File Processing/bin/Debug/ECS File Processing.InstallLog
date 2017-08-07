@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe
+   logfile = C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe
+   logfile = C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe
+   logfile = C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.exe
+   logfile = C:\Users\satya\Documents\Visual Studio 2017\Projects\ECS File Processing\ECS File Processing\bin\Debug\ECS File Processing.InstallLog
